@@ -1,4 +1,4 @@
-# SQL Job Market Analysis (Machine Learning Focus)
+# SQL Job Market Analysis
 
 A data driven analysis of the job market for Machine Learning Engineers, examining required skills, salary trends, in demand technologies, and top paying roles using PostgreSQL.
 
