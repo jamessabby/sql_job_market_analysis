@@ -36,7 +36,7 @@ This analysis identifies the highest paying Machine Learning Engineer positions 
 
 📄 *Query script:* [`project_sql/1_top_paying_jobs.sql`](project_sql/1_top_paying_jobs.sql)
 
-![Top Paying Roles](assets/1_top_paying_roles.png)
+![Top Paying Roles](visualizations/1_top_paying_roles.png)
 
 Looking at broader ML leadership and engineering roles across the full dataset, companies like Glocomms offer up to **$425,000** for Applied Data Science/ML Leaders, while Stripe and Pinterest offer **$350,000** for ML leadership roles. The database covers **11,824 companies** recruiting for ML talent.
 
@@ -48,7 +48,7 @@ This analysis maps specific technical skills directly to the top paying ML job o
 
 📄 *Query script:* [`project_sql/2_top_paying_job_skills.sql`](project_sql/2_top_paying_job_skills.sql)
 
-![Required Skills for Top Paying Roles](assets/2_top_paying_job_skills.png)
+![Required Skills for Top Paying Roles](visualizations/2_top_paying_job_skills.png)
 
 ---
 
@@ -58,7 +58,7 @@ This analysis evaluates job posting frequencies to identify the most commonly re
 
 📄 *Query script:* [`project_sql/3_top_demanded_skills.sql`](project_sql/3_top_demanded_skills.sql)
 
-![Top Demanded Skills](assets/3_top_demanded_skills.png)
+![Top Demanded Skills](visualizations/3_top_demanded_skills.png)
 
 ---
 
@@ -68,7 +68,7 @@ This analysis calculates which technical skills yield the highest average salary
 
 📄 *Query script:* [`project_sql/4_top_skills_based_on_salary.sql`](project_sql/4_top_skills_based_on_salary.sql)
 
-![Top Skills Based on Salary](assets/4_top_skills_based_on_salary.png)
+![Top Skills Based on Salary](visualizations/4_top_skills_based_on_salary.png)
 
 ---
 
@@ -78,7 +78,7 @@ This analysis filters for optimal target skills by combining high job posting de
 
 📄 *Query script:* [`project_sql/5_optimal_skills.sql`](project_sql/5_optimal_skills.sql)
 
-![Optimal Skills for Remote ML Engineers](assets/5_optimal_skills.png)
+![Optimal Skills for Remote ML Engineers](visualizations/5_optimal_skills.png)
 
 ---
 
